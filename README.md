@@ -116,14 +116,14 @@ I turn raw data into clear findings and meaningful stories, and I learn by build
 <br/>
 
 <!--
-TIP: Replace each placeholder image below with your real dashboard screenshot.
-Save screenshots in an /assets folder and use e.g. <img src="assets/retail-dashboard.png" ... />
+The GIFs in /assets are animated previews. Replace them with your real Power BI dashboard screenshots anytime
+(e.g. assets/retail-dashboard.png) once you want to show actual results.
 -->
 
 <table>
 <tr>
 <td width="45%" align="center" valign="middle">
-<img src="https://placehold.co/640x360/0F2027/2C8C99/png?text=Retail+Dashboard+Preview" width="100%" alt="Retail Sales dashboard preview"/>
+<img src="assets/retail-dashboard.gif" width="100%" alt="Retail Sales dashboard preview"/>
 </td>
 <td width="55%" valign="top">
 <img src="https://img.shields.io/badge/PROJECT-01-2C8C99?style=flat-square" alt="Project 01"/>
@@ -151,7 +151,7 @@ Save screenshots in an /assets folder and use e.g. <img src="assets/retail-dashb
 <img src="https://img.shields.io/badge/Repository-Coming%20Soon-lightgrey?style=for-the-badge" alt="Repository coming soon"/>
 </td>
 <td width="45%" align="center" valign="middle">
-<img src="https://placehold.co/640x360/203A43/2C8C99/png?text=HR+Dashboard+Preview" width="100%" alt="HR Attrition dashboard preview"/>
+<img src="assets/hr-dashboard.gif" width="100%" alt="HR Attrition dashboard preview"/>
 </td>
 </tr>
 </table>
@@ -159,7 +159,7 @@ Save screenshots in an /assets folder and use e.g. <img src="assets/retail-dashb
 <table>
 <tr>
 <td width="45%" align="center" valign="middle">
-<img src="https://placehold.co/640x360/2C5364/ffffff/png?text=Churn+Dashboard+Preview" width="100%" alt="Customer Churn dashboard preview"/>
+<img src="assets/churn-dashboard.gif" width="100%" alt="Customer Churn dashboard preview"/>
 </td>
 <td width="55%" valign="top">
 <img src="https://img.shields.io/badge/PROJECT-03-2C8C99?style=flat-square" alt="Project 03"/>
@@ -180,15 +180,41 @@ Save screenshots in an /assets folder and use e.g. <img src="assets/retail-dashb
 
 ## 🏅 Certification
 
+</div>
+
+<table>
+<tr>
+<td width="34%" align="center" valign="middle">
+
+<a href="certificates/SkillCircle-Data-Analytics-Certificate.pdf">
+<img src="assets/certificate-preview.jpg" width="100%" alt="Skill Degree in Data Analytics certificate"/>
+</a>
+
+<sub>Click to open the PDF</sub>
+
+</td>
+<td width="66%" valign="middle">
+
+<img src="https://img.shields.io/badge/CERTIFICATE%20OF-COMPLETION-2C8C99?style=flat-square" alt="Certificate of Completion"/>
+
+### Skill Degree in Data Analytics
+
 <img src="https://img.shields.io/badge/SkillCircle-Data%20Analytics-203A43?style=for-the-badge" alt="SkillCircle"/>
 <img src="https://img.shields.io/badge/Delhi%20Startups-Joint%20Certification-2C5364?style=for-the-badge" alt="Delhi Startups"/>
 
-**Skill Degree in Data Analytics**
-June 2026 – September 2026 · Registration No. `23142`
+| | |
+|---|---|
+| **Awarded to** | Harsh Kumar |
+| **Issued by** | SkillCircle × Delhi Startups |
+| **Duration** | Jun 2026 – Sep 2026 |
+| **Reg. Number** | `23142` |
+| **Focus** | Formulating strategies using data analytics practices |
 
-[![View Certificate](https://img.shields.io/badge/📄%20View%20Certificate-2C8C99?style=for-the-badge)](certificates/SkillCircle-Data-Analytics-Certificate.pdf)
+[![View Certificate](https://img.shields.io/badge/📄%20View%20Certificate%20(PDF)-2C8C99?style=for-the-badge)](certificates/SkillCircle-Data-Analytics-Certificate.pdf)
 
-</div>
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C8C99,100:0F2027&height=3&section=header" width="100%" alt="divider"/>
 
