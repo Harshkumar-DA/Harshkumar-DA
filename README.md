@@ -115,17 +115,9 @@ I turn raw data into clear findings and meaningful stories, and I learn by build
 
 <br/>
 
-<!--
-The GIFs in /assets are animated previews. Replace them with your real Power BI dashboard screenshots anytime
-(e.g. assets/retail-dashboard.png) once you want to show actual results.
--->
-
 <table>
 <tr>
-<td width="45%" align="center" valign="middle">
-<img src="assets/retail-dashboard.gif" width="100%" alt="Retail Sales dashboard preview"/>
-</td>
-<td width="55%" valign="top">
+<td valign="top">
 <img src="https://img.shields.io/badge/PROJECT-01-2C8C99?style=flat-square" alt="Project 01"/>
 <h3>📊 Retail Sales &amp; Profitability Intelligence</h3>
 <p>Analysed sales, profit and discount patterns across products, categories and regions to spot trends and loss-making areas, presented in a Power BI dashboard.</p>
@@ -140,7 +132,7 @@ The GIFs in /assets are animated previews. Replace them with your real Power BI 
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td valign="top">
 <img src="https://img.shields.io/badge/PROJECT-02-2C8C99?style=flat-square" alt="Project 02"/>
 <h3>👥 HR Attrition &amp; Workforce Analysis</h3>
 <p>Explored employee attrition across departments, roles and employee groups using SQL, with a Power BI dashboard of workforce KPIs and trends.</p>
@@ -150,18 +142,12 @@ The GIFs in /assets are animated previews. Replace them with your real Power BI 
 <br/><br/>
 <img src="https://img.shields.io/badge/Repository-Coming%20Soon-lightgrey?style=for-the-badge" alt="Repository coming soon"/>
 </td>
-<td width="45%" align="center" valign="middle">
-<img src="assets/hr-dashboard.gif" width="100%" alt="HR Attrition dashboard preview"/>
-</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="45%" align="center" valign="middle">
-<img src="assets/churn-dashboard.gif" width="100%" alt="Customer Churn dashboard preview"/>
-</td>
-<td width="55%" valign="top">
+<td valign="top">
 <img src="https://img.shields.io/badge/PROJECT-03-2C8C99?style=flat-square" alt="Project 03"/>
 <h3>🔁 Customer Churn Analysis</h3>
 <p>Studied customer behaviour with Python and SQL to understand churn and retention patterns, summarised in dashboard views of key churn metrics.</p>
@@ -184,16 +170,7 @@ The GIFs in /assets are animated previews. Replace them with your real Power BI 
 
 <table>
 <tr>
-<td width="34%" align="center" valign="middle">
-
-<a href="certificates/SkillCircle-Data-Analytics-Certificate.pdf">
-<img src="assets/certificate-preview.jpg" width="100%" alt="Skill Degree in Data Analytics certificate"/>
-</a>
-
-<sub>Click to open the PDF</sub>
-
-</td>
-<td width="66%" valign="middle">
+<td valign="middle">
 
 <img src="https://img.shields.io/badge/CERTIFICATE%20OF-COMPLETION-2C8C99?style=flat-square" alt="Certificate of Completion"/>
 
@@ -210,7 +187,7 @@ The GIFs in /assets are animated previews. Replace them with your real Power BI 
 | **Reg. Number** | `23142` |
 | **Focus** | Formulating strategies using data analytics practices |
 
-[![View Certificate](https://img.shields.io/badge/📄%20View%20Certificate%20(PDF)-2C8C99?style=for-the-badge)](certificates/SkillCircle-Data-Analytics-Certificate.pdf)
+[![View Certificate](https://img.shields.io/badge/📄%20View%20Certificate%20(PDF)-2C8C99?style=for-the-badge)](SkillCircle-Data-Analytics-Certificate.pdf)
 
 </td>
 </tr>
@@ -242,7 +219,6 @@ Open to learning, collaboration, and new opportunities in data and business anal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-2a264640a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshkashyap9568@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
 
 <br/>
 
